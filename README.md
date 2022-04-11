@@ -7,7 +7,7 @@ Naudodami komandą pakeiskite savo darbinę kategoriją į tą, kurioje norite p
 Parsiųskite repozitoriją: git clone https://github.com/ZilvinasVidmantas/test
 Pakeiskite darbinę kategoriją į parsiųstos repozitorijos kategoriją cd test
 Pagrindinės komandos
-**1. git add** -> failų paruošimas patvirtinimui **git add -> prideda failą nurodytu pavadinimu **git add** . -> Prideda visus pakitusius failus
+**1. git add** -> failų paruošimas patvirtinimui **...*git add* -> prideda failą nurodytu pavadinimu **git add** . -> Prideda visus pakitusius failus
 
 **2. git diff** -> skirtumas tarp dviejų failų, ar dviejų to paties failo versijų git diff -> failo nurodytu pavadinimu pakitimai nuo paskutinio commit'o
 
