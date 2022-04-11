@@ -15,6 +15,6 @@ Pagrindinės komandos
 
 **4. git branch** -> komanda, kuri naudoja operacios su šakomis git branch -a -> parodo visas parsiųstas šakas ir šiuo metu aktyvią šaką
 
-**5. git **commit** -> komanda skirta užtvirti projekto pakitimui git commit -m "Žinutė apibūdinanti pakitimą"
+**5. git commit** -> komanda skirta užtvirti projekto pakitimui git commit -m "Žinutė apibūdinanti pakitimą"
 
 **6. git push** -> komanda skirta paviešinti commit'us į atitinkamą globalią šaką
